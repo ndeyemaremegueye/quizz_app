@@ -1,0 +1,29 @@
+{
+    "questions" : [
+        {
+            "question" : " Quelle est la technologie utilisée pour stocker des données dans des bases de données relationnelles",
+            "choix" : "JSON, SQL, XML, HTML",
+            "reponse" : "SQL"
+        },
+        {
+            "question" : " Quel est le composant essentiel d'un réseau informatique permettant de transmettre des données entre les appareils ?",
+            "choix" : "Modem, Routeur, Processeur, Disque dur",
+            "reponse" : "Routeur"
+        },
+        {
+            "question" : " Quel est le protocole utilisé pour transférer des fichiers sur Internet de manière sécurisée ?",
+            "choix" : " HTTP, FTP, SMTP, SSH",
+            "reponse" : "SSH"
+        },
+        {
+            "question" : " Quel est le langage de balisage utilisé pour structurer le contenu des pages web ?",
+            "choix" : "CSS, JavaScript,  XML, HTML",
+            "reponse" : "HTML"
+        },
+        {
+            "question" : " Quel système d'exploitation est développé par Apple pour ses appareils mobiles ?",
+            "choix" : " Android, Windows,  iOS, Linux",
+            "reponse" : "IOS"
+        }
+    ]
+}
